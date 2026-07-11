@@ -99,12 +99,9 @@ Aplikasi akan membuka di `http://localhost:5173`
 Buat file `.env` di root directory dengan mengcopy dari `.env.example`:
 
 ```env
-VITE_API_BASE_URL=http://localhost:3000/api
+VITE_API_BASE_URL=http://localhost:5173/api
 VITE_APP_NAME=Sistem Akademik SMK
 ```
-
-**PENTING**: File `.env` tidak boleh di-commit ke Git (sudah ada di `.gitignore`)
-
 ### Build untuk Production
 
 ```bash
