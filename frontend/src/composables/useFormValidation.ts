@@ -1,4 +1,4 @@
-mimport { ref } from 'vue'
+import { ref } from 'vue'
 
 interface ValidationRule {
   required?: boolean
