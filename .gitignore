@@ -30,6 +30,9 @@ pnpm-debug.log*
 *.sqlite3
 *.db
 *.db-journal
+*.db-shm
+*.db-wal
+*.db-*
 
 # IDE and editor files
 .vscode/
