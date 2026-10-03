@@ -44,3 +44,19 @@ pnpm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
+=======
+
+# IDE
+.vscode/
+.idea/
+
+# Python virtualenv
+.venv/
+
+# Generated files
+coverage/
+
+# Uploads
+backend/uploads/
+>>>>>>> 33425f7 (Fitur: Implementasi Role-Based Access Control (RBAC))
